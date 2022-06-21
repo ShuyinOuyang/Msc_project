@@ -1,0 +1,19 @@
+[ {
+  "@id" : "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Ontology" ]
+}, {
+  "@id" : "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20#class1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20#class2",
+  "@type" : [ "http://www.w3.org/2002/07/owl#Class" ]
+}, {
+  "@id" : "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20#ind1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#NamedIndividual", "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20#class1" ]
+}, {
+  "@id" : "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20#pro1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#ObjectProperty" ]
+}, {
+  "@id" : "http://www.semanticweb.org/m1327/ontologies/2022/5/untitled-ontology-20#property1",
+  "@type" : [ "http://www.w3.org/2002/07/owl#DatatypeProperty" ]
+} ]
